@@ -10,8 +10,8 @@
   transition: all 100ms ease-in;
 }
 html {
-  /* background: #222048; */
-  background: #000;
+  background: #222048;
+  /* background: #000; */
 }
 .feliz {
   width: 100%;
